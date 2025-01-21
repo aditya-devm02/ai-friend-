@@ -7,9 +7,6 @@
 
 ---
 
-## Demo
-
-There is a <a href="http://chat-ai-ml.surge.sh/" target="_blank">front-end only demo deployed</a>, but that is without a backend so the bot repeats what you say. Nonetheless, it shows every other feature as well as the styling. Once the ML algo is fully implemented, the only thing different would be the chat's response.
 
 ---
 
